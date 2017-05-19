@@ -1,4 +1,5 @@
-mysql-data
+mysql-data/*
+!mysql-data/.keep
 sample-rails
 .docker-sync
 .env

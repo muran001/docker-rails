@@ -8,6 +8,8 @@ You can create development environment for rails instantly.
 Before executing below commands, you should install install [docker](https://www.docker.com/).
 
 ```
+$ git clone <your repository>
+
 $ gem i docker-sync
 
 $ cp .env.sample .env
